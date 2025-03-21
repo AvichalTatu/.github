@@ -30,6 +30,9 @@ Still have questions? Talk to Amanda, Luyi or Laura :)
 [**Climatic data**](https://github.com/bugoftheweek/Climatic-data)
 * Download climatic data from Copernicus
 
+[**Microclimate data**](https://github.com/bugoftheweek/Microclimate-data)
+* Download silo data using and model microclimates using NichemapR
+
 [**Photos**](https://github.com/bugoftheweek/Photos)
 * Calculating hue, chroma, brightness from photos  
 * Calculating colour distance  
